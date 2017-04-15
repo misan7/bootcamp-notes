@@ -18,4 +18,6 @@ A total of 50 days of total immersion.
 
 - [Link](sublime_notes.md) to Sublime Text notes.
 
+## Git Basics
 
+- [Link](git_notes.md) to Git notes.
