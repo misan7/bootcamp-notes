@@ -58,6 +58,7 @@ Write `*`, `-` or `+` to begin an unordered list.
 
 **Enter + tab** for different levels.
 
+```
 * COW
     - Milk
         + White
@@ -67,9 +68,13 @@ Write `*`, `-` or `+` to begin an unordered list.
     - Cuack
     - Yellow
 * DOGS
+```
 
 #### 2. Ordered Lists:
 
+Write a `number` + `.` + ` ` for an ordered list.
+
+```
 1. Wake up
     1. Breakfast
     2. Brush teeth
@@ -82,4 +87,4 @@ Write `*`, `-` or `+` to begin an unordered list.
         2. Relax
 3. Do sports
 5. Sleep at night
-
+```
