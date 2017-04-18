@@ -8,7 +8,7 @@
 
 - `value` = the value that will be displayed, it depends of the property.
 
-![selector](../images/css_selectors.png)
+![selector](images/css_selectors.png)
 
 ## Connection with html
 
@@ -196,7 +196,7 @@ HTML
 
 If there are two or more conflicting **CSS rules** that point to the same element, there are some _basic rules_ that a browser follows to determine which one is **most specific**.
 
-![Darth Specifity](../images/specificity_wars.jpeg)
+![Darth Specifity](images/specificity_wars.jpeg)
 
 - [**Specifity** Calculator](https://specificity.keegan.st/)
 
@@ -259,7 +259,7 @@ The last value adds **opacity**
 
 According to the **box model** concept, every element on a page is a _rectangular box_and may have `width`, `height`, `padding`, `border`, and `margin`. The dimensions of the box are defined by the sum of padding + margin + border. 
 
-![The box](../images/thebox.png)
+![The box](images/thebox.png)
 
 `Block element` = 100% of the windows and are 1 over another. You can change their dimensions.
 
@@ -279,4 +279,4 @@ According to the **box model** concept, every element on a page is a _rectangula
 
 - [Positioning with **float** and **inline-block**](http://learn.shayhowe.com/html-css/positioning-content/)
 
-![float](../images/float.jpg)
+![float](images/float.jpg)
