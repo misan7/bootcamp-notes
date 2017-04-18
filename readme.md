@@ -2,22 +2,20 @@
 
 I store here my notes about the [Skylab](http://www.skylabcoders.com/es)'s experience.
 
-The course started on April 10 and will last 10 weeks.
+The course started on _April 10_ and will last _10 weeks_.
 
-A total of 50 days of total immersion.
+A total of _50 days_ of total immersion.
 
-## Markdown Examples
+## The Basics
 
-- [Link](markdown_notes.md) to markdown notes.
+- [Link to my **Markdown Examples** notes.](markdown_notes.md) 
 
-## Cmder Hints
+- [Link to my **Cmder Hints** notes.](cmder_notes.md)
 
-- [Link](cmder_notes.md) to cmder notes.
+- [Link to my **Sublime Text 3: Hints & Shortcuts** notes.](sublime_notes.md)
 
-## Sublime Text 3: Hints & Shortcuts
+- [Link to my **Git Basics** notes.](git_notes.md)
 
-- [Link](sublime_notes.md) to Sublime Text notes.
+## CSS World of Colors
 
-## Git Basics
-
-- [Link](git_notes.md) to Git notes.
+- [Link to my **CSS** notes](css_notes.md)
