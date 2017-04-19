@@ -261,17 +261,17 @@ According to the **box model** concept, every element on a page is a _rectangula
 
 ![The box](images/thebox.png)
 
-`Block element` = 100% of the windows and are 1 over another. You can change their dimensions.
-
-`Inline element` = take up just the space of its content, they are inline. You can't change their dimensions with width, height,...
-
 - [Opening The **Content Box**](http://learn.shayhowe.com/html-css/opening-the-box-model/)
 
 **Natural** or **Normal flow** explains the _behaviour_ of the content.
 
-`Display: block` and `display: inline` change the behaviour of the box.
+`block element` = 100% of the windows and are 1 over another. You can change their dimensions.
 
-`Display: inline-block` put the elements in one line respecting their properties.
+`inline element` = take up just the space of its content, they are inline. You can't change their dimensions with width, height,...
+
+`display: block` and `display: inline` change the behaviour of the box.
+
+`display: inline-block` put the elements in one line respecting their properties.
 
 `float: left` or `float: right`. Float makes float the text. The text is adapted but the box is put  in other level.
 
@@ -280,3 +280,60 @@ According to the **box model** concept, every element on a page is a _rectangula
 - [Positioning with **float** and **inline-block**](http://learn.shayhowe.com/html-css/positioning-content/)
 
 ![float](images/float.jpg)
+
+| Block elements  | Inline elements |
+| ------------- | ------------- |
+| section  | span  |
+| article  | strong  |
+| aside  | em  |
+| header |img  |
+| footer |
+| nav |
+| div |
+| h1 - h6 |
+| p |
+| ul - ol - li |
+| table |
+
+- `position: relative`; you can move the box where you want with _top,right, bottom, left_ but the box occupy the same space. You can edit the offset.
+
+![relative](images/relative.jpg)
+
+- `position: absolute`; absolute is referent to the father with `position: relative`.
+
+![absolute](images/absolute.jpg)
+
+- `position: fix`; if you scroll, the element doesn't move.
+
+![positions](images/positions.jpg)
+
+
+## Flexbox
+
+The main idea behind the flex layout is to give the **container** the ability to **alter its items** (width, height and order) to best fill the available space 
+
+A flex container expands items to fill available free space, or shrinks them to prevent overflow.
+
+We just modificate the __father__, and the children adapt to its father's container.
+
+`display: flex`; After this property we can write the next:
+
+- `flex-direction: row-reverse`; from right to left;
+- `flex-direction: column` or `column-reverse`; display in column.
+- `flex-wrap: wrap`; newline.
+- `flex-flow: row-wrap`; includes direction and wrap.
+
+- `justify-content: center` and others; justify the children boxes.
+
+- `align-items`; how will behave the tex.
+- `align-content`;how will behave the items.
+
+[Complete guide to Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+**IMPORTANT** we have to active `display:flex` to modificate anything.
+
+`align-self: center`; is set for every element of the father
+
+#### The Flex Game 
+
+[flexbox froggy](http://flexboxfroggy.com/)
