@@ -19,12 +19,12 @@ A total of _50 days_ of total immersion.
 ## CSS World of Colors
 
 - [Link to my **CSS** notes](css_notes.md)
-    + [Connection with html](file:///C:/Users/Sergio/appdata/local/temp/60.html#connection-with-html)
-    + [Type of Selectors](https://github.com/misan7/bootcamp_notes/blob/master/markdown_notes.md#lists)
+    + [Connection with html](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#connection-with-html)
+    + [Type of Selectors](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#type-of-selectors)
         * Game: [CSS Dinner](http://flukeout.github.io/)
-    + Specifity
-    + Properties and Values
-    + Positioning and the Box Model
-    + Flexbox
+    + [Specifity](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#specifity)
+    + [Properties and Values](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#properties-and-values)
+    + [Positioning and the Box Model](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#positioning-and-the-box-model)
+    + [Flexbox](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#flexbox)
         * Game [Flexbox Froggy](http://flexboxfroggy.com/)
-    + Reset.css
+    + [Reset.css](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#resetcss)
