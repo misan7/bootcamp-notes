@@ -37,4 +37,4 @@ A total of _50 days_ of total immersion.
 
 ## Bootstrap, my first framework
 
-- [Link to my **Bootstrap** and **SASS** notes]
+- [Link to my **Bootstrap** and **SASS** notes](bootstrap_notes.md)
