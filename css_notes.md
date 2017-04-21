@@ -4,7 +4,7 @@
 
 - `Selector` = defines the element of the html that will be styled. Selectors generally target an _attribute_ value, such as an `id` or `class` value, or target the _type_ of element, such as `<h1>` or `<p>`.
 
-- `propierties` = a property determines the styles that will be applied to that element. i.e. 'font-size, position, background, border... '
+- `propierties` = a property determines the styles that will be applied to that element. **i.e.** _font-size, position, background, border_... '
 
 - `value` = the value that will be displayed, it depends of the property.
 
@@ -12,7 +12,7 @@
 
 ## Connection with html
 
-#### 1- Route the Css externally 
+#### 1- Route the CSS externally 
 
 `<link rel="stylesheet" type="text/css" href="styles.css">`
 
@@ -68,21 +68,14 @@
 #### 3- Inline Style
 
 ```html
-<head>
-<style>
-body {
-    background-color: linen;
-}
-
-h1 {
-    color: maroon;
-    margin-left: 40px;
-} 
-</style>
-</head>
+  <body>
+    <p style="color:blue;font-size:46px;">
+      I'm a big, blue, <strong>strong</strong> paragraph
+    </p>
+  </body>
 ```
 
-## Selectors
+## Type of Selectors
 
 ### Descendant Selector
 
@@ -194,7 +187,7 @@ HTML
 
 ## Specifity 
 
-If there are two or more conflicting **CSS rules** that point to the same element, there are some _basic rules_ that a browser follows to determine which one is **most specific**.
+If there are two or more conflicting **CSS rules** that point to the same element, there are some _basic rules_ that a browser follows to determine which one is the **most specific**.
 
 ![Darth Specifity](images/specificity_wars.jpeg)
 
@@ -205,7 +198,7 @@ If there are two or more conflicting **CSS rules** that point to the same elemen
 
 #### Working with Typography
 
-`font-family` & `font-size`
+- `font-family` & `font-size`
 
 ```css
 p {
@@ -214,7 +207,7 @@ p {
 }
 ```
 
-`font-style` & `font-variant` & `font-weight`
+- `font-style` & `font-variant` & `font-weight`
 
 ```css
 .apple {
@@ -224,7 +217,7 @@ p {
 }
 ```
 
-`line-height`
+- `line-height`
 
 ```css
 body {
@@ -257,7 +250,7 @@ The last value adds **opacity**
 
 ## Positioning and the Box Model
 
-According to the **box model** concept, every element on a page is a _rectangular box_and may have `width`, `height`, `padding`, `border`, and `margin`. The dimensions of the box are defined by the sum of padding + margin + border. 
+According to the **box model** concept, every element on a page is a _rectangular box_ and may have `width`, `height`, `padding`, `border`, and `margin`. The dimensions of the box are defined by the sum of _padding + margin + border_. 
 
 ![The box](images/thebox.png)
 
@@ -265,17 +258,17 @@ According to the **box model** concept, every element on a page is a _rectangula
 
 **Natural** or **Normal flow** explains the _behaviour_ of the content.
 
-`block element` = 100% of the windows and are 1 over another. You can change their dimensions.
+- `block element` = Ocuppy 100% of the box and is one over another. We can change their dimensions.
 
-`inline element` = take up just the space of its content, they are inline. You can't change their dimensions with width, height,...
+- `inline element` = take up just the space of its content, they are inline. We can't change their dimensions with width, height,...
 
-`display: block` and `display: inline` change the behaviour of the box.
+- `display: block` and `display: inline` change the behaviour of the box.
 
-`display: inline-block` put the elements in one line respecting their properties.
+- `display: inline-block` put the elements in one line respecting their properties.
 
-`float: left` or `float: right`. Float makes float the text. The text is adapted but the box is put  in other level.
+- `float: left` or `float: right`. Float makes float the text. The text is adapted but the box is put in other level.
 
-`clear: both` is for stop the flow. Is put on the box that we don't want to float.
+- `clear: both`; to stop the _flow_. Clear is put on the box that we don't want to float.
 
 - [Positioning with **float** and **inline-block**](http://learn.shayhowe.com/html-css/positioning-content/)
 
@@ -295,7 +288,7 @@ According to the **box model** concept, every element on a page is a _rectangula
 | ul - ol - li |
 | table |
 
-- `position: relative`; you can move the box where you want with _top,right, bottom, left_ but the box occupy the same space. You can edit the offset.
+- `position: relative`; we can move the box wherever we want with _top,right, bottom, left_ but the box occupy the same space. We can edit the offset.
 
 ![relative](images/relative.jpg)
 
@@ -310,7 +303,7 @@ According to the **box model** concept, every element on a page is a _rectangula
 
 ## Flexbox
 
-The main idea behind the flex layout is to give the **container** the ability to **alter its items** (width, height and order) to best fill the available space 
+The main idea behind the flex layout is to give the **container** the ability to **alter its items** (width, height and order) to best fill the available space.
 
 A flex container expands items to fill available free space, or shrinks them to prevent overflow.
 
@@ -325,15 +318,21 @@ We just modificate the __father__, and the children adapt to its father's contai
 
 - `justify-content: center` and others; justify the children boxes.
 
-- `align-items`; how will behave the tex.
+- `align-items`; how will behave the text.
 - `align-content`;how will behave the items.
+- `align-self: center`; is set for every element of the father
 
 [Complete guide to Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 **IMPORTANT** we have to active `display:flex` to modificate anything.
 
-`align-self: center`; is set for every element of the father
-
 #### The Flex Game 
 
-[flexbox froggy](http://flexboxfroggy.com/)
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+
+## Reset.css
+
+Is a tool that makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+We have to link the library or copy the text on the css.
+
+- [Normalize](https://cdnjs.com/libraries/normalize)

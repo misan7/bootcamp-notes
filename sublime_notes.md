@@ -10,6 +10,10 @@
 
 `ctrl + d` = Select all ocurrencies
 
+`alt + shift + 2` = 2 screens or more depending the typed number
+
+`alt + shift + w` = open a `<p>`
+
 **View - Hide/show Minimap** = show on the right part of the window the minimap of code
 
 

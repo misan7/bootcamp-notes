@@ -30,6 +30,8 @@
 
 `mv 'filename1' 'C:\folder\filename2'` = _move_ files; it deletes the first file and creates the second
 
+`cp 'filename1' 'C:\folder\filename2'` = _copy_ files; it copies the file to the route you wrote.
+
 ## Other commands
 
 `clear` = clear window

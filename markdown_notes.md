@@ -88,3 +88,15 @@ Write a `number` + `.` + ` ` for an ordered list.
 3. Do sports
 5. Sleep at night
 ```
+
+
+## Tables
+
+On the example is Written a `|` + `My Table element 1` + `|` + `My Table element 2`. On the second line: `|` + some `--------` + `|` + mòre `-------`. On the next lines `|` `Thing 1` + `|` + `Thing 0` + `|` and so on.
+
+| My Table element 1 | My Table element 2 |
+|--------------------|--------------------|
+| Thing 1            | Thing 0            |
+| Thing 11           | Thing 00           |
+| Thing 111          | Thing 000          |
+| Thing 11111        | Thing 0000         |
