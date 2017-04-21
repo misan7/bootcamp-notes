@@ -26,5 +26,10 @@ A total of _50 days_ of total immersion.
     + [Properties and Values](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#properties-and-values)
     + [Positioning and the Box Model](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#positioning-and-the-box-model)
     + [Flexbox](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#flexbox)
-        * Game [Flexbox Froggy](http://flexboxfroggy.com/)
+        * Game: [Flexbox Froggy](http://flexboxfroggy.com/)
     + [Reset.css](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#resetcss)
+
+## RegExp Patterns of Chars
+
+- [Link to my **RegExp** notes](regexp_notes.md)
+    + Hungarian Notation

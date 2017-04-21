@@ -1,4 +1,4 @@
-# CSS
+# CSS World of Colors
 
 `CSS` = _Cascading Style Sheets_; imagine that there are some sheets in order. The **last** sheet has **preference** above the others. 
 
