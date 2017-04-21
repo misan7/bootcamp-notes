@@ -6,7 +6,7 @@ The course started on _April 10_ and will last _10 weeks_.
 
 A total of _50 days_ of total immersion.
 
-## The Basics
+## The Basics :runner:
 
 - [Link to my **Markdown Examples** notes](markdown_notes.md) 
 
@@ -30,7 +30,7 @@ A total of _50 days_ of total immersion.
     + [Reset.css](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#resetcss)
 - [Link to my **Media Queries** notes](mediaqueries_notes.md)
 
-## RegExp Patterns of Chars :abc:
+## RegExp Patterns of Chars :earth_africa:
 
 - [Link to my **RegExp** notes](regexp_notes.md)
     + [Hungarian Notation](https://github.com/misan7/bootcamp_notes/blob/master/regexp_notes.md#hungarian-notation-examples)
