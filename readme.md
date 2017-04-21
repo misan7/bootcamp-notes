@@ -16,25 +16,25 @@ A total of _50 days_ of total immersion.
 
 - [Link to my **Git Basics** notes](git_notes.md)
 
-## CSS World of Colors
+## CSS World of Colors :art:
 
 - [Link to my **CSS** notes](css_notes.md)
     + [Connection with html](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#connection-with-html)
     + [Type of Selectors](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#type-of-selectors)
-        * Game: [CSS Dinner](http://flukeout.github.io/)
+        * Game: [CSS Dinner](http://flukeout.github.io/) :apple:
     + [Specifity](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#specifity)
     + [Properties and Values](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#properties-and-values)
     + [Positioning and the Box Model](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#positioning-and-the-box-model)
     + [Flexbox](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#flexbox)
-        * Game: [Flexbox Froggy](http://flexboxfroggy.com/)
+        * Game: [Flexbox Froggy](http://flexboxfroggy.com/) :frog:
     + [Reset.css](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#resetcss)
 - [Link to my **Media Queries** notes](mediaqueries_notes.md)
 
-## RegExp Patterns of Chars
+## RegExp Patterns of Chars :abc:
 
 - [Link to my **RegExp** notes](regexp_notes.md)
     + [Hungarian Notation](https://github.com/misan7/bootcamp_notes/blob/master/regexp_notes.md#hungarian-notation-examples)
 
-## Bootstrap, my first framework
+## Bootstrap, my first framework :large_orange_diamond:
 
 - [Link to my **Bootstrap** and **SASS** notes](bootstrap_notes.md)
