@@ -38,3 +38,16 @@ A total of _50 days_ of total immersion.
 ## Bootstrap, my first framework :large_orange_diamond:
 
 - [Link to my **Bootstrap** and **SASS** notes](bootstrap_notes.md)
+
+## jQuery The Browser Environment
+
+- [Link to my jQuery notes](jquery_notes.md)
+    + [window properties](https://github.com/misan7/bootcamp_notes/blob/master/jquery_notes.md#window-properties)
+    + [window methods](https://github.com/misan7/bootcamp_notes/blob/master/jquery_notes.md#window-methods)
+    + [The DOM (Document Object Model)](https://github.com/misan7/bootcamp_notes/blob/master/jquery_notes.md#the-dom-document-object-model)
+    + [Selecting Elemnts](https://github.com/misan7/bootcamp_notes/blob/master/jquery_notes.md#selecting-elements)
+    + [Getting and Setting Information About Elements](https://github.com/misan7/bootcamp_notes/blob/master/jquery_notes.md#getting-and-setting-information-about-elements)
+    + [Traversing](https://github.com/misan7/bootcamp_notes/blob/master/jquery_notes.md#traversing)
+    + [Iterating over jQuery and non-jQuery Objects](https://github.com/misan7/bootcamp_notes/blob/master/jquery_notes.md#iterating-over-jquery-and-non-jquery-objects)
+    + [Events](https://github.com/misan7/bootcamp_notes/blob/master/jquery_notes.md#events)
+        * Game: [Try jQuery](http://try.jquery.com/)
