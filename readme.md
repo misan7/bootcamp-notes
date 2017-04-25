@@ -30,7 +30,7 @@ A total of _50 days_ of total immersion.
     + [Reset.css](https://github.com/misan7/bootcamp_notes/blob/master/css_notes.md#resetcss)
 - [Link to my **Media Queries** notes](mediaqueries_notes.md)
 
-## RegExp Patterns of Chars :earth_africa:
+## RegExp Patterns of Chars :checkered_flag:
 
 - [Link to my **RegExp** notes](regexp_notes.md)
     + [Hungarian Notation](https://github.com/misan7/bootcamp_notes/blob/master/regexp_notes.md#hungarian-notation-examples)
@@ -39,7 +39,7 @@ A total of _50 days_ of total immersion.
 
 - [Link to my **Bootstrap** and **SASS** notes](bootstrap_notes.md)
 
-## jQuery The Browser Environment
+## jQuery The Browser Environment :earth_africa:
 
 - [Link to my jQuery notes](jquery_notes.md)
     + [window properties](https://github.com/misan7/bootcamp_notes/blob/master/jquery_notes.md#window-properties)
